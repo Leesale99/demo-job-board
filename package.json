@@ -1,0 +1,8 @@
+{
+  "name": "demo-job-board",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Leesale99/demo-job-board.git",
+  "author": "Aleksandar Radovanovic <aleks.rdvn@gmail.com>",
+  "license": "MIT"
+}
